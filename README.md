@@ -3,7 +3,7 @@ Analyzed retail sales data using Python and Pandas to identify seasonal patterns
 
 ## Dashboard Preview
 
-![Dashboard Overview](SALES PERFORMANCE & FORECASTE.png)
+![Dashboard Overview](SALES_FORECAST.png)
 # Sales Forecasting & Analysis Dashboard
 
 This project focuses on analyzing retail sales data and forecasting future sales trends using Python, Pandas, and Power BI. The goal of the project is to identify seasonal patterns, understand sales performance over time, and create a dashboard that compares actual sales with forecasted sales.
