@@ -1,7 +1,9 @@
 # Sales_forecasting
 Analyzed retail sales data using Python and Pandas to identify seasonal patterns, growth trends, and sales performance. Implemented moving average forecasting and built an interactive Power BI dashboard to compare actual vs forecasted sales using trend charts and KPI visuals.
 
+## Dashboard Preview
 
+![Dashboard Overview](SALES PERFORMANCE & FORECASTE.png)
 # Sales Forecasting & Analysis Dashboard
 
 This project focuses on analyzing retail sales data and forecasting future sales trends using Python, Pandas, and Power BI. The goal of the project is to identify seasonal patterns, understand sales performance over time, and create a dashboard that compares actual sales with forecasted sales.
